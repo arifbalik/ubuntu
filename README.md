@@ -2,8 +2,6 @@ This project enables you to use the original [Ubuntu Font Familiy](http://font.u
 
 Available fonts are Ubuntu Regular, Light, Medium, Condensed and Monospace (as of version 0.80). They can be modified using the common `\textit`, `\textbf` and `\texttt` commands. Please mind, that Light and Medium don't come with an own bold shape. Medium and Ubuntu Bold are used as fallbacks. There is no such thing for Ubuntu Condensed, it will always come by its default shape.
 
-[![Flattr this](http://api.flattr.com/button/flattr-badge-large.png")](http://flattr.com/thing/275508/Ubuntu-LaTeX-Fonts)
-
 ##How to install##
 
 You can just drop all these files into your project's folder and start using the fonts.
