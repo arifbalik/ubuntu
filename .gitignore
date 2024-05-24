@@ -1,0 +1,11 @@
+test/*.aux
+test/*.log
+*.swp
+document.aux
+document.dvi
+document.log
+document.pdf
+document.ps
+document.tex
+*.*pk
+*.ttf
